@@ -3,6 +3,6 @@
     "firstName": "string",
     "lastName": "string",
     "age": "int",
-    "email": "string",
+    "email": "string"
   }
 }
